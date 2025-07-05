@@ -1,5 +1,5 @@
 // Problem: Palindrome Number
-// URL: https://leetcode.com/problems/palindrome-number/
+// URL: https://leetcode.com/problems/palindrome-number/description/
 
 class Solution {
 public:
